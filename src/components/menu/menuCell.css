@@ -1,0 +1,17 @@
+.menuCell {
+    background-color: #F6F9FF;
+    color: #485469;
+    height: 56px;
+    width: 100px;
+    font-family: "PingFangSC-Regular";
+    font-size: 18px;
+    line-height: 56px;
+    text-align: center;
+    top: 0px;
+    float: left;
+}
+
+.menuCell:hover {
+	color: #5292FF;
+	border-bottom: solid #5292FF 2px;
+}
